@@ -1,4 +1,4 @@
-package com.pan.community.interceptor;
+package com.pan.community.controller.interceptor;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

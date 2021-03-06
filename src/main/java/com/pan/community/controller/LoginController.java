@@ -28,7 +28,7 @@ import java.util.Map;
 @Controller
 public class LoginController implements CommunityConstant {
 
-    public static final Logger logger = LoggerFactory.getLogger(LoginController.class);
+    private static final Logger logger = LoggerFactory.getLogger(LoginController.class);
 
     @Autowired
     private UserService userService;
