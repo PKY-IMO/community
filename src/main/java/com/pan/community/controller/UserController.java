@@ -144,5 +144,4 @@ public class UserController implements CommunityConstant {
         return "/site/profile";
 
     }
-
 }
